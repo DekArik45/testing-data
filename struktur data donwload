@@ -1,0 +1,31 @@
+courses = [
+ - id
+ - name
+ - description
+ - native = [Languages]
+ - foreign = [Languages]
+ - img
+ - daily_streak = [DailyStreak]
+ - subscription = [Subscription]
+ - level = [
+	 - Data Level
+	 - exp_point = [EXPPoint]
+	 - word = [
+		 - Data Word
+		 - media = [Media]
+		 - word_note = [WordsNote]
+		 - word_progress = [WordProgress]
+		 - difficult_word = [DifficultWord]
+		 - ignored_word = [IgnoredWord]
+		 - mastered_word = [MasteredWord]
+		 - word_in_review = [WordsInReview]
+		]
+	]
+]
+
+user_answer = [
+	 - Data UserAnswer
+	 - date
+]
+
+language = [Language]

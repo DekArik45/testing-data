@@ -6,14 +6,6 @@
       "age": 22,
       "gender": "Male",
       "image": "https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg",
-      "user": [
-         {
-            "id": 1,
-            "username": "kadekari",
-            "email": "kadekari@gmail.com",
-            "password": "kadekari"
-         }
-      ],
       "accountSetting": [
          {
             "id": 1,

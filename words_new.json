@@ -1,1 +1,611 @@
-[{"id":1,"words":"a suitcase","description":"koper","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":1,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[{"id":1,"account_id":1,"word_id":1}],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89667_aa65d8b5-2d35-4277-aee0-b1a1d5582619-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89667_c09b08b5-ec6a-4385-ad0e-1330e0ac4cd7-e_m.mp3","type":"audio"}]},{"id":2,"words":"a bag","description":"tas","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":2,"account_id":1,"progress":0}],"difficult_words":[{"id":1,"account_id":1,"word_id":1}],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89668_79f4a323-a634-4a13-b821-055658077a9f-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89668_84b8d313-8b77-4d56-8cbc-087449217e97-e_m.mp3","type":"audio"}]},{"id":3,"words":"a passport","description":"paspor","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":3,"account_id":1,"progress":4}],"difficult_words":[],"ignored_words":[],"mastered_words":[{"id":1,"account_id":1,"word_id":1}],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89669_96b75f4b-4c13-479d-99d3-56d4c5ae9348-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89669_2750e097-9f37-415c-9e55-8f3500a7dd1f-e_m.mp3","type":"audio"}]},{"id":4,"words":"a hotel","description":"hotel","course":"Bahasa Inggris","life":4,"words_progress":[],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89670_02cb4a67-a613-4f95-83c6-0f6a4a354670-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89670_fc2eb5a7-1b79-430d-bf5d-25d38e3f8aa2-e_m.mp3","type":"audio"}]},{"id":5,"words":"a hostel","description":"hostel","course":"Bahasa Inggris","life":4,"words_progress":[],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89671_7f7f3d03-c6a0-4da6-b266-bbd0badc39df-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89671_99d09519-9fa6-45ca-b1d2-ca830284f490-e_m.mp3","type":"audio"}]},{"id":6,"words":"a shower","description":"pancuran air mandi","course":"Bahasa Inggris","life":4,"words_progress":[],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89672_8af1dcde-32e3-4024-afc0-06e708e226d0-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89672_72c22804-7407-46b0-b03c-32258987d8ea-e_m.mp3","type":"audio"}]},{"id":7,"words":"a bath","description":"kamar mandi","course":"Bahasa Inggris","life":4,"words_progress":[],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89673_2f3a3402-76b2-468a-817e-c78af95a1700-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89673_8d05b4e2-bc87-478e-b38b-7578945b52f3-e_m.mp3","type":"audio"}]},{"id":8,"words":"a single room","description":"kamar single","course":"Bahasa Inggris","life":4,"words_progress":[],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89674_e52b3801-ba4f-46ab-af80-3bd1894d4b1a-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89674_392e3ec0-f960-49d3-bbdd-8a87c204b1f7-e_m.mp3","type":"audio"}]},{"id":9,"words":"a double room","description":"kamar double","course":"Bahasa Inggris","life":4,"words_progress":[],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89675_c0889d91-9ec4-4e43-9c28-17bc32df733e-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89675_4a1ccac3-016f-4ddf-aa71-c3bdf3052285-e_m.mp3","type":"audio"}]},{"id":10,"words":"a key","description":"kunci","course":"Bahasa Inggris","life":4,"words_progress":[],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89676_f1c115ae-decb-4727-be75-347fb422bd2e-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89676_43c73659-c0f3-443d-84db-08bda165b7e3-e_m.mp3","type":"audio"}]},{"id":11,"words":"a bed","description":"tempat tidur","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":11,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89677_ed8ee172-f2b1-4bfb-8e17-a24e8cde27a9-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89677_7708a322-f581-4a59-9f76-748476abe535-e_m.mp3","type":"audio"}]},{"id":12,"words":"a pillow","description":"bantal","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":12,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89678_42f60c2e-0d34-4b88-86b2-900f0ea9e722-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89678_f4ea0b28-10f9-43b8-9ddd-7e71eaf5c943-e_m.mp3","type":"audio"}]},{"id":13,"words":"a couch","description":"sofa","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":13,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89679_0726706b-9443-4e7c-8385-a6ddc31efcc0-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89679_b9ae62b4-6a99-45e5-b07c-57544f043f48-e_m.mp3","type":"audio"}]},{"id":14,"words":"a chair","description":"kursi","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":14,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89680_35e2d4ee-a3db-4e87-a7e5-c55b7e239361-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89680_61af4f2d-da9d-49f1-8e35-5b6561821802-e_m.mp3","type":"audio"}]},{"id":15,"words":"a curtain","description":"tirai; gorden","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":15,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89681_ed49b8b4-7e25-42c6-bca3-389de43be198-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89681_85e8c150-9f79-420d-9e86-087b60e62c44-e_m.mp3","type":"audio"}]},{"id":16,"words":"a window","description":"jendela","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":16,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89682_1fc601d6-e80f-400e-ad54-501efa2f8b2b-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89682_3563f72a-418e-4661-b4fc-19211a25a0cd-e_m.mp3","type":"audio"}]},{"id":17,"words":"a door","description":"pintu","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":17,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89683_6eacf0e6-5dd8-49df-a149-10544d87fb77-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89683_bbc35158-fc82-4c96-baca-e5098956de05-e_m.mp3","type":"audio"}]},{"id":18,"words":"a balcony","description":"balkon","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":18,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89684_fb39d74c-e586-42a7-a3e5-80d2641e18e5-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89684_572f0272-dedd-437b-9733-9c2a115e88af-e_m.mp3","type":"audio"}]},{"id":19,"words":"a lift","description":"lift","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":19,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89685_1fcef38e-751d-464c-908e-7421d2628376-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89685_81ffaedd-533d-4b45-a84d-8e6749eda400-e_m.mp3","type":"audio"}]},{"id":20,"words":"stairs","description":"tangga","course":"Bahasa Inggris","life":4,"words_progress":[{"id":1,"word_id":20,"account_id":1,"progress":1}],"difficult_words":[],"ignored_words":[],"mastered_words":[],"media":[{"id":1,"name":"Female Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89686_f560aee4-4bd8-4246-a879-f6443b89410f-e_f.mp3","type":"audio"},{"id":2,"name":"Male Voice","path_to_file":"https://static.memrise.com/uploads/items/audios/89686_cefc01c1-c9e4-4f0b-a6c9-c267f6c101a1-e_m.mp3","type":"audio"}]}]
+[
+   {
+      "id": 1,
+      "words": "a suitcase",
+      "description": "koper",
+      "translation": "koper",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 1,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [
+         {
+            "id": 1,
+            "account_id": 1,
+            "word_id": 1
+         }
+      ],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89667_aa65d8b5-2d35-4277-aee0-b1a1d5582619-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89667_c09b08b5-ec6a-4385-ad0e-1330e0ac4cd7-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "words": "a bag",
+      "description": "tas",
+      "translation": "tas",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 2,
+            "account_id": 1,
+            "progress": 0
+         }
+      ],
+      "difficult_words": [
+         {
+            "id": 1,
+            "account_id": 1,
+            "word_id": 1
+         }
+      ],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89668_79f4a323-a634-4a13-b821-055658077a9f-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89668_84b8d313-8b77-4d56-8cbc-087449217e97-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "words": "a passport",
+      "description": "paspor",
+      "translation": "paspor",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 3,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [
+         {
+            "id": 1,
+            "account_id": 1,
+            "word_id": 1
+         }
+      ],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89669_96b75f4b-4c13-479d-99d3-56d4c5ae9348-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89669_2750e097-9f37-415c-9e55-8f3500a7dd1f-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "words": "a hotel",
+      "description": "hotel",
+      "translation": "hotel",
+      "life": 4,
+      "words_progress": [],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89670_02cb4a67-a613-4f95-83c6-0f6a4a354670-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89670_fc2eb5a7-1b79-430d-bf5d-25d38e3f8aa2-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "words": "a hostel",
+      "description": "hostel",
+      "translation": "hostel",
+      "life": 4,
+      "words_progress": [],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89671_7f7f3d03-c6a0-4da6-b266-bbd0badc39df-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89671_99d09519-9fa6-45ca-b1d2-ca830284f490-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 6,
+      "words": "a shower",
+      "description": "pancuran air mandi",
+      "translation": "pancuran air mandi",
+      "life": 4,
+      "words_progress": [],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89672_8af1dcde-32e3-4024-afc0-06e708e226d0-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89672_72c22804-7407-46b0-b03c-32258987d8ea-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 7,
+      "words": "a bath",
+      "description": "kamar mandi",
+      "translation": "kamar mandi",
+      "life": 4,
+      "words_progress": [],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89673_2f3a3402-76b2-468a-817e-c78af95a1700-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89673_8d05b4e2-bc87-478e-b38b-7578945b52f3-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 8,
+      "words": "a single room",
+      "description": "kamar single",
+      "translation": "kamar single",
+      "life": 4,
+      "words_progress": [],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89674_e52b3801-ba4f-46ab-af80-3bd1894d4b1a-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89674_392e3ec0-f960-49d3-bbdd-8a87c204b1f7-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 9,
+      "words": "a double room",
+      "description": "kamar double",
+      "translation": "kamar double",
+      "life": 4,
+      "words_progress": [],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89675_c0889d91-9ec4-4e43-9c28-17bc32df733e-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89675_4a1ccac3-016f-4ddf-aa71-c3bdf3052285-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 10,
+      "words": "a key",
+      "description": "kunci",
+      "translation": "kunci",
+      "life": 4,
+      "words_progress": [],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89676_f1c115ae-decb-4727-be75-347fb422bd2e-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89676_43c73659-c0f3-443d-84db-08bda165b7e3-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 11,
+      "words": "a bed",
+      "description": "tempat tidur",
+      "translation": "tempat tidur",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 11,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89677_ed8ee172-f2b1-4bfb-8e17-a24e8cde27a9-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89677_7708a322-f581-4a59-9f76-748476abe535-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 12,
+      "words": "a pillow",
+      "description": "bantal",
+      "translation": "bantal",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 12,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89678_42f60c2e-0d34-4b88-86b2-900f0ea9e722-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89678_f4ea0b28-10f9-43b8-9ddd-7e71eaf5c943-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 13,
+      "words": "a couch",
+      "description": "sofa",
+      "translation": "sofa",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 13,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89679_0726706b-9443-4e7c-8385-a6ddc31efcc0-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89679_b9ae62b4-6a99-45e5-b07c-57544f043f48-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 14,
+      "words": "a chair",
+      "description": "kursi",
+      "translation": "kursi",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 14,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89680_35e2d4ee-a3db-4e87-a7e5-c55b7e239361-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89680_61af4f2d-da9d-49f1-8e35-5b6561821802-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 15,
+      "words": "a curtain",
+      "description": "tirai; gorden",
+      "translation": "tirai; gorden",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89681_ed49b8b4-7e25-42c6-bca3-389de43be198-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89681_85e8c150-9f79-420d-9e86-087b60e62c44-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 16,
+      "words": "a window",
+      "description": "jendela",
+      "translation": "jendela",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 16,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89682_1fc601d6-e80f-400e-ad54-501efa2f8b2b-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89682_3563f72a-418e-4661-b4fc-19211a25a0cd-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 17,
+      "words": "a door",
+      "description": "pintu",
+      "translation": "pintu",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 17,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89683_6eacf0e6-5dd8-49df-a149-10544d87fb77-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89683_bbc35158-fc82-4c96-baca-e5098956de05-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 18,
+      "words": "a balcony",
+      "description": "balkon",
+      "translation": "balkon",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 18,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89684_fb39d74c-e586-42a7-a3e5-80d2641e18e5-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89684_572f0272-dedd-437b-9733-9c2a115e88af-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 19,
+      "words": "a lift",
+      "description": "lift",
+      "translation": "lift",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 19,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89685_1fcef38e-751d-464c-908e-7421d2628376-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89685_81ffaedd-533d-4b45-a84d-8e6749eda400-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   },
+   {
+      "id": 20,
+      "words": "stairs",
+      "description": "tangga",
+      "translation": "tangga",
+      "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 20,
+            "account_id": 1,
+            "progress": 1
+         }
+      ],
+      "difficult_words": [],
+      "ignored_words": [],
+      "mastered_words": [],
+      "media": [
+         {
+            "id": 1,
+            "name": "Female Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89686_f560aee4-4bd8-4246-a879-f6443b89410f-e_f.mp3",
+            "type": "audio"
+         },
+         {
+            "id": 2,
+            "name": "Male Voice",
+            "path_to_file": "https://static.memrise.com/uploads/items/audios/89686_cefc01c1-c9e4-4f0b-a6c9-c267f6c101a1-e_m.mp3",
+            "type": "audio"
+         }
+      ]
+   }
+]
