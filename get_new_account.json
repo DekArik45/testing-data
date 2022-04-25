@@ -1,0 +1,55 @@
+[
+   {
+      "id": 25,
+      "user_id": 1,
+      "name": "kadek ari",
+      "age": 22,
+      "gender": "Male",
+      "image": "https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg",
+      "accountSetting": [
+         {
+            "id": 1,
+            "user_id": 25,
+            "languages_id": 1,
+            "word_to_review": 5,
+            "learn_word": 15,
+            "show_difficult_word": true,
+            "show_ignored_word": true,
+            "show_reminder": true,
+            "time_reminder": "14:25:00",
+            "reminder": [
+               {
+                  "id": 1,
+                  "account_setting_id": 1,
+                  "day": "Monday"
+               },
+               {
+                  "id": 2,
+                  "account_setting_id": 1,
+                  "day": "Sunday"
+               },
+               {
+                  "id": 3,
+                  "account_setting_id": 1,
+                  "day": "Thursday"
+               }
+            ],
+            "audio": true,
+            "auto_play_audio": false,
+            "video": false,
+            "auto_play_video": false,
+            "vibration": true,
+            "theme": "Dark",
+            "languages": [
+               {
+                  "id": 1,
+                  "name": "Bahasa",
+                  "code": "id",
+                  "country_id": 1,
+                  "img": ""
+               }
+            ]
+         }
+      ]
+   }
+]
