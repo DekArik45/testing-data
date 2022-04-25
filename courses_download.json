@@ -22,12 +22,38 @@
             "img": "https://static.memrise.com/uploads/category_photos/DemoFlags-09_copy.png"
          }
       ],
-      
+      "daily_streak": [
+         {
+            "id": 1,
+            "course_id": "1",
+            "date": "",
+            "goal": 5,
+            "goal_progress": 0,
+            "status": ""
+         }
+      ],
+      "subscription": [
+         {
+            "id": 1,
+            "course_id": "1",
+            "start_date": "",
+            "end_date": "",
+            "status": ""
+         }
+      ],
       "levels": [
          {
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
+            "exp_point": [
+               {
+                  "id": 1,
+                  "course_id": "1",
+                  "level_id": 1,
+                  "exp_point": 1000
+               }
+            ],
             "words": [
                {
                   "id": 1,
@@ -39,8 +65,8 @@
                      {
                         "id": 1,
                         "word_id": 1,
-                        "account_id": 1,
-                        "progress": 1
+                        "user_id": 1,
+                        "progress": 4
                      }
                   ],
                   "difficult_words": [],
@@ -51,7 +77,12 @@
                         "word_id": 1
                      }
                   ],
-                  "mastered_words": [],
+                  "mastered_words": [
+                     {
+                        "id": 1,
+                        "word_id": 1
+                     }
+                  ],
                   "media": [
                      {
                         "id": 1,
@@ -64,6 +95,26 @@
                         "name": "Male Voice",
                         "path_to_file": "https://static.memrise.com/uploads/items/audios/89667_c09b08b5-ec6a-4385-ad0e-1330e0ac4cd7-e_m.mp3",
                         "type": "audio"
+                     }
+                  ],
+                  "word_note": [
+                     {
+                        "id": 1,
+                        "word_id": 1,
+                        "note": "haha ggwp"
+                     },
+                     {
+                        "id": 2,
+                        "word_id": 1,
+                        "note": "Note number 2"
+                     }
+                  ],
+                  "word_to_review": [
+                     {
+                        "id": 1,
+                        "word_id": 1,
+                        "date_available": "25-04-2022 12:00:00",
+                        "status": ""
                      }
                   ]
                },
@@ -78,18 +129,23 @@
                         "id": 1,
                         "word_id": 2,
                         "account_id": 1,
-                        "progress": 0
+                        "progress": 4
                      }
                   ],
                   "difficult_words": [
                      {
                         "id": 1,
-                        "account_id": 1,
-                        "word_id": 1
+                        "user_id": 1,
+                        "word_id": 2
                      }
                   ],
                   "ignored_words": [],
-                  "mastered_words": [],
+                  "mastered_words": [
+                     {
+                        "id": 1,
+                        "word_id": 2
+                     }
+                  ],
                   "media": [
                      {
                         "id": 1,
@@ -103,6 +159,14 @@
                         "path_to_file": "https://static.memrise.com/uploads/items/audios/89668_84b8d313-8b77-4d56-8cbc-087449217e97-e_m.mp3",
                         "type": "audio"
                      }
+                  ],
+                  "word_to_review": [
+                     {
+                        "id": 1,
+                        "word_id": 2,
+                        "date_available": "25-04-2022 12:00:00",
+                        "status": ""
+                     }
                   ]
                },
                {
@@ -115,7 +179,7 @@
                      {
                         "id": 1,
                         "word_id": 3,
-                        "account_id": 1,
+                        "user_id": 1,
                         "progress": 4
                      }
                   ],
@@ -124,8 +188,8 @@
                   "mastered_words": [
                      {
                         "id": 1,
-                        "account_id": 1,
-                        "word_id": 1
+                        "user_id": 1,
+                        "word_id": 3
                      }
                   ],
                   "media": [
@@ -140,6 +204,14 @@
                         "name": "Male Voice",
                         "path_to_file": "https://static.memrise.com/uploads/items/audios/89669_2750e097-9f37-415c-9e55-8f3500a7dd1f-e_m.mp3",
                         "type": "audio"
+                     }
+                  ],
+                  "word_to_review": [
+                     {
+                        "id": 1,
+                        "word_id": 3,
+                        "date_available": "25-04-2022 12:00:00",
+                        "status": ""
                      }
                   ]
                },
