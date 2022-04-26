@@ -4,6 +4,7 @@
       "name": "Japanese Course",
       "description": "Get started in Japanese to learn the basics and introduce yourself. You’ll discover how to ask for recommendations about what to see and where to eat the best ramen. And how to order it, of course.",
       "img": "https://static.memrise.com/img/400sqf/from/uploads/immersion/JA0.jpg",
+      "link_download_media_course":"https://raw.githubusercontent.com/DekArik45/testing-data/main/media.zip",
       "native": [
          {
             "id": 1,
