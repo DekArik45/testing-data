@@ -15,6 +15,7 @@
             "learn_word": 15,
             "show_difficult_word": true,
             "show_ignored_word": true,
+            "enable_typing":true,
             "show_reminder": true,
             "time_reminder": "14:25:00",
             "reminder": [
@@ -39,12 +40,12 @@
             "video": false,
             "auto_play_video": false,
             "vibration": true,
-            "theme": "Dark",
+            "theme": "System",
             "languages": [
                {
                   "id": 1,
-                  "name": "Bahasa",
-                  "code": "id",
+                  "name": "English",
+                  "code": "en",
                   "country_id": 1,
                   "img": ""
                }
