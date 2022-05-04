@@ -11,12 +11,13 @@
             "id": 1,
             "user_id": 25,
             "languages_id": 1,
-            "word_to_review": 5,
-            "learn_word": 15,
+            "word_to_review": 15,
+            "learn_word": 5,
             "show_difficult_word": true,
             "show_ignored_word": true,
             "enable_typing":true,
             "show_reminder": true,
+            "download":false,
             "time_reminder": "14:25:00",
             "reminder": [
                {
@@ -36,9 +37,9 @@
                }
             ],
             "audio": true,
-            "auto_play_audio": false,
-            "video": false,
-            "auto_play_video": false,
+            "auto_play_audio": true,
+            "video": true,
+            "auto_play_video": true,
             "vibration": true,
             "theme": "System",
             "languages": [
