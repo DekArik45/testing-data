@@ -36,9 +36,9 @@
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -256,9 +256,9 @@
             "id": 2,
             "name": "How to Sound Polite",
             "sequence": "2",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -356,9 +356,9 @@
             "id": 3,
             "name": "Survival Kit",
             "sequence": "3",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -456,9 +456,9 @@
             "id": 4,
             "name": "Forming Senteces",
             "sequence": "4",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -556,9 +556,9 @@
             "id": 5,
             "name": "Vocab Booster : Easy as 1,2,3",
             "sequence": "5",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -656,9 +656,9 @@
             "id": 6,
             "name": "Small Talk",
             "sequence": "6",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -756,9 +756,9 @@
             "id": 7,
             "name": "How to say 'Not...'",
             "sequence": "7",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -856,9 +856,9 @@
             "id": 8,
             "name": "Vocab Booster: Who Are You?",
             "sequence": "8",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -956,9 +956,9 @@
             "id": 9,
             "name": "Each To Their Own",
             "sequence": "9",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1056,9 +1056,9 @@
             "id": 10,
             "name": "The 2 Types of Adjectives (Part 1)",
             "sequence": "10",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1156,9 +1156,9 @@
             "id": 11,
             "name": "The 2 Types of Adjevtives (Part 2)",
             "sequence": "11",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1256,9 +1256,9 @@
             "id": 12,
             "name": "Vocab Booster: Day In, Day Out",
             "sequence": "12",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1356,9 +1356,9 @@
             "id": 13,
             "name": "Which Particle to Use for \"I Like...\"",
             "sequence": "13",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1456,9 +1456,9 @@
             "id": 14,
             "name": "Which Particle to Use for \"So You Like...?\"",
             "sequence": "14",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1556,9 +1556,9 @@
             "id": 15,
             "name": "Food For Thought",
             "sequence": "15",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1656,9 +1656,9 @@
             "id": 16,
             "name": "Which Particle to Use for \"There is...\"",
             "sequence": "16",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1756,9 +1756,9 @@
             "id": 17,
             "name": "Vocab Booster: Food Is Life",
             "sequence": "17",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1856,9 +1856,9 @@
             "id": 18,
             "name": "We Are Family",
             "sequence": "18",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -1956,9 +1956,9 @@
             "id": 19,
             "name": "imasu or arimasu: That is the Question!",
             "sequence": "19",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2056,9 +2056,9 @@
             "id": 20,
             "name": "Vocab Booster: Personalities",
             "sequence": "20",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2156,9 +2156,9 @@
             "id": 21,
             "name": "Sites To See!",
             "sequence": "21",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2256,9 +2256,9 @@
             "id": 22,
             "name": "Vocab Booster: I've Got Places To Be!",
             "sequence": "22",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2391,9 +2391,9 @@
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2611,9 +2611,9 @@
             "id": 2,
             "name": "How to Sound Polite",
             "sequence": "2",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2711,9 +2711,9 @@
             "id": 3,
             "name": "Survival Kit",
             "sequence": "3",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2811,9 +2811,9 @@
             "id": 4,
             "name": "Forming Senteces",
             "sequence": "4",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -2911,9 +2911,9 @@
             "id": 5,
             "name": "Vocab Booster : Easy as 1,2,3",
             "sequence": "5",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3011,9 +3011,9 @@
             "id": 6,
             "name": "Small Talk",
             "sequence": "6",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3111,9 +3111,9 @@
             "id": 7,
             "name": "How to say 'Not...'",
             "sequence": "7",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3211,9 +3211,9 @@
             "id": 8,
             "name": "Vocab Booster: Who Are You?",
             "sequence": "8",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3311,9 +3311,9 @@
             "id": 9,
             "name": "Each To Their Own",
             "sequence": "9",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3411,9 +3411,9 @@
             "id": 10,
             "name": "The 2 Types of Adjectives (Part 1)",
             "sequence": "10",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3511,9 +3511,9 @@
             "id": 11,
             "name": "The 2 Types of Adjevtives (Part 2)",
             "sequence": "11",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3611,9 +3611,9 @@
             "id": 12,
             "name": "Vocab Booster: Day In, Day Out",
             "sequence": "12",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3711,9 +3711,9 @@
             "id": 13,
             "name": "Which Particle to Use for \"I Like...\"",
             "sequence": "13",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3811,9 +3811,9 @@
             "id": 14,
             "name": "Which Particle to Use for \"So You Like...?\"",
             "sequence": "14",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -3911,9 +3911,9 @@
             "id": 15,
             "name": "Food For Thought",
             "sequence": "15",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4011,9 +4011,9 @@
             "id": 16,
             "name": "Which Particle to Use for \"There is...\"",
             "sequence": "16",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4111,9 +4111,9 @@
             "id": 17,
             "name": "Vocab Booster: Food Is Life",
             "sequence": "17",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4211,9 +4211,9 @@
             "id": 18,
             "name": "We Are Family",
             "sequence": "18",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4311,9 +4311,9 @@
             "id": 19,
             "name": "imasu or arimasu: That is the Question!",
             "sequence": "19",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4411,9 +4411,9 @@
             "id": 20,
             "name": "Vocab Booster: Personalities",
             "sequence": "20",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4511,9 +4511,9 @@
             "id": 21,
             "name": "Sites To See!",
             "sequence": "21",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4611,9 +4611,9 @@
             "id": 22,
             "name": "Vocab Booster: I've Got Places To Be!",
             "sequence": "22",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4746,9 +4746,9 @@
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -4966,9 +4966,9 @@
             "id": 2,
             "name": "How to Sound Polite",
             "sequence": "2",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5066,9 +5066,9 @@
             "id": 3,
             "name": "Survival Kit",
             "sequence": "3",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5166,9 +5166,9 @@
             "id": 4,
             "name": "Forming Senteces",
             "sequence": "4",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5266,9 +5266,9 @@
             "id": 5,
             "name": "Vocab Booster : Easy as 1,2,3",
             "sequence": "5",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5366,9 +5366,9 @@
             "id": 6,
             "name": "Small Talk",
             "sequence": "6",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5466,9 +5466,9 @@
             "id": 7,
             "name": "How to say 'Not...'",
             "sequence": "7",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5566,9 +5566,9 @@
             "id": 8,
             "name": "Vocab Booster: Who Are You?",
             "sequence": "8",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5666,9 +5666,9 @@
             "id": 9,
             "name": "Each To Their Own",
             "sequence": "9",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5766,9 +5766,9 @@
             "id": 10,
             "name": "The 2 Types of Adjectives (Part 1)",
             "sequence": "10",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5866,9 +5866,9 @@
             "id": 11,
             "name": "The 2 Types of Adjevtives (Part 2)",
             "sequence": "11",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -5966,9 +5966,9 @@
             "id": 12,
             "name": "Vocab Booster: Day In, Day Out",
             "sequence": "12",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6066,9 +6066,9 @@
             "id": 13,
             "name": "Which Particle to Use for \"I Like...\"",
             "sequence": "13",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6166,9 +6166,9 @@
             "id": 14,
             "name": "Which Particle to Use for \"So You Like...?\"",
             "sequence": "14",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6266,9 +6266,9 @@
             "id": 15,
             "name": "Food For Thought",
             "sequence": "15",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6366,9 +6366,9 @@
             "id": 16,
             "name": "Which Particle to Use for \"There is...\"",
             "sequence": "16",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6466,9 +6466,9 @@
             "id": 17,
             "name": "Vocab Booster: Food Is Life",
             "sequence": "17",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6566,9 +6566,9 @@
             "id": 18,
             "name": "We Are Family",
             "sequence": "18",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6666,9 +6666,9 @@
             "id": 19,
             "name": "imasu or arimasu: That is the Question!",
             "sequence": "19",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6766,9 +6766,9 @@
             "id": 20,
             "name": "Vocab Booster: Personalities",
             "sequence": "20",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6866,9 +6866,9 @@
             "id": 21,
             "name": "Sites To See!",
             "sequence": "21",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -6966,9 +6966,9 @@
             "id": 22,
             "name": "Vocab Booster: I've Got Places To Be!",
             "sequence": "22",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7101,9 +7101,9 @@
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7321,9 +7321,9 @@
             "id": 2,
             "name": "How to Sound Polite",
             "sequence": "2",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7421,9 +7421,9 @@
             "id": 3,
             "name": "Survival Kit",
             "sequence": "3",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7521,9 +7521,9 @@
             "id": 4,
             "name": "Forming Senteces",
             "sequence": "4",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7621,9 +7621,9 @@
             "id": 5,
             "name": "Vocab Booster : Easy as 1,2,3",
             "sequence": "5",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7721,9 +7721,9 @@
             "id": 6,
             "name": "Small Talk",
             "sequence": "6",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7821,9 +7821,9 @@
             "id": 7,
             "name": "How to say 'Not...'",
             "sequence": "7",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -7921,9 +7921,9 @@
             "id": 8,
             "name": "Vocab Booster: Who Are You?",
             "sequence": "8",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8021,9 +8021,9 @@
             "id": 9,
             "name": "Each To Their Own",
             "sequence": "9",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8121,9 +8121,9 @@
             "id": 10,
             "name": "The 2 Types of Adjectives (Part 1)",
             "sequence": "10",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8221,9 +8221,9 @@
             "id": 11,
             "name": "The 2 Types of Adjevtives (Part 2)",
             "sequence": "11",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8321,9 +8321,9 @@
             "id": 12,
             "name": "Vocab Booster: Day In, Day Out",
             "sequence": "12",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8421,9 +8421,9 @@
             "id": 13,
             "name": "Which Particle to Use for \"I Like...\"",
             "sequence": "13",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8521,9 +8521,9 @@
             "id": 14,
             "name": "Which Particle to Use for \"So You Like...?\"",
             "sequence": "14",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8621,9 +8621,9 @@
             "id": 15,
             "name": "Food For Thought",
             "sequence": "15",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8721,9 +8721,9 @@
             "id": 16,
             "name": "Which Particle to Use for \"There is...\"",
             "sequence": "16",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8821,9 +8821,9 @@
             "id": 17,
             "name": "Vocab Booster: Food Is Life",
             "sequence": "17",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -8921,9 +8921,9 @@
             "id": 18,
             "name": "We Are Family",
             "sequence": "18",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9021,9 +9021,9 @@
             "id": 19,
             "name": "imasu or arimasu: That is the Question!",
             "sequence": "19",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9121,9 +9121,9 @@
             "id": 20,
             "name": "Vocab Booster: Personalities",
             "sequence": "20",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9221,9 +9221,9 @@
             "id": 21,
             "name": "Sites To See!",
             "sequence": "21",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9321,9 +9321,9 @@
             "id": 22,
             "name": "Vocab Booster: I've Got Places To Be!",
             "sequence": "22",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9456,9 +9456,9 @@
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9676,9 +9676,9 @@
             "id": 2,
             "name": "How to Sound Polite",
             "sequence": "2",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9776,9 +9776,9 @@
             "id": 3,
             "name": "Survival Kit",
             "sequence": "3",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9876,9 +9876,9 @@
             "id": 4,
             "name": "Forming Senteces",
             "sequence": "4",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -9976,9 +9976,9 @@
             "id": 5,
             "name": "Vocab Booster : Easy as 1,2,3",
             "sequence": "5",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10076,9 +10076,9 @@
             "id": 6,
             "name": "Small Talk",
             "sequence": "6",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10176,9 +10176,9 @@
             "id": 7,
             "name": "How to say 'Not...'",
             "sequence": "7",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10276,9 +10276,9 @@
             "id": 8,
             "name": "Vocab Booster: Who Are You?",
             "sequence": "8",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10376,9 +10376,9 @@
             "id": 9,
             "name": "Each To Their Own",
             "sequence": "9",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10476,9 +10476,9 @@
             "id": 10,
             "name": "The 2 Types of Adjectives (Part 1)",
             "sequence": "10",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10576,9 +10576,9 @@
             "id": 11,
             "name": "The 2 Types of Adjevtives (Part 2)",
             "sequence": "11",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10676,9 +10676,9 @@
             "id": 12,
             "name": "Vocab Booster: Day In, Day Out",
             "sequence": "12",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10776,9 +10776,9 @@
             "id": 13,
             "name": "Which Particle to Use for \"I Like...\"",
             "sequence": "13",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10876,9 +10876,9 @@
             "id": 14,
             "name": "Which Particle to Use for \"So You Like...?\"",
             "sequence": "14",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -10976,9 +10976,9 @@
             "id": 15,
             "name": "Food For Thought",
             "sequence": "15",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11076,9 +11076,9 @@
             "id": 16,
             "name": "Which Particle to Use for \"There is...\"",
             "sequence": "16",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11176,9 +11176,9 @@
             "id": 17,
             "name": "Vocab Booster: Food Is Life",
             "sequence": "17",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11276,9 +11276,9 @@
             "id": 18,
             "name": "We Are Family",
             "sequence": "18",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11376,9 +11376,9 @@
             "id": 19,
             "name": "imasu or arimasu: That is the Question!",
             "sequence": "19",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11476,9 +11476,9 @@
             "id": 20,
             "name": "Vocab Booster: Personalities",
             "sequence": "20",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11576,9 +11576,9 @@
             "id": 21,
             "name": "Sites To See!",
             "sequence": "21",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11676,9 +11676,9 @@
             "id": 22,
             "name": "Vocab Booster: I've Got Places To Be!",
             "sequence": "22",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -11811,9 +11811,9 @@
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12031,9 +12031,9 @@
             "id": 2,
             "name": "How to Sound Polite",
             "sequence": "2",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12131,9 +12131,9 @@
             "id": 3,
             "name": "Survival Kit",
             "sequence": "3",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12231,9 +12231,9 @@
             "id": 4,
             "name": "Forming Senteces",
             "sequence": "4",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12331,9 +12331,9 @@
             "id": 5,
             "name": "Vocab Booster : Easy as 1,2,3",
             "sequence": "5",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12431,9 +12431,9 @@
             "id": 6,
             "name": "Small Talk",
             "sequence": "6",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12531,9 +12531,9 @@
             "id": 7,
             "name": "How to say 'Not...'",
             "sequence": "7",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12631,9 +12631,9 @@
             "id": 8,
             "name": "Vocab Booster: Who Are You?",
             "sequence": "8",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12731,9 +12731,9 @@
             "id": 9,
             "name": "Each To Their Own",
             "sequence": "9",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12831,9 +12831,9 @@
             "id": 10,
             "name": "The 2 Types of Adjectives (Part 1)",
             "sequence": "10",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -12931,9 +12931,9 @@
             "id": 11,
             "name": "The 2 Types of Adjevtives (Part 2)",
             "sequence": "11",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13031,9 +13031,9 @@
             "id": 12,
             "name": "Vocab Booster: Day In, Day Out",
             "sequence": "12",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13131,9 +13131,9 @@
             "id": 13,
             "name": "Which Particle to Use for \"I Like...\"",
             "sequence": "13",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13231,9 +13231,9 @@
             "id": 14,
             "name": "Which Particle to Use for \"So You Like...?\"",
             "sequence": "14",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13331,9 +13331,9 @@
             "id": 15,
             "name": "Food For Thought",
             "sequence": "15",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13431,9 +13431,9 @@
             "id": 16,
             "name": "Which Particle to Use for \"There is...\"",
             "sequence": "16",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13531,9 +13531,9 @@
             "id": 17,
             "name": "Vocab Booster: Food Is Life",
             "sequence": "17",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13631,9 +13631,9 @@
             "id": 18,
             "name": "We Are Family",
             "sequence": "18",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13731,9 +13731,9 @@
             "id": 19,
             "name": "imasu or arimasu: That is the Question!",
             "sequence": "19",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13831,9 +13831,9 @@
             "id": 20,
             "name": "Vocab Booster: Personalities",
             "sequence": "20",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -13931,9 +13931,9 @@
             "id": 21,
             "name": "Sites To See!",
             "sequence": "21",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14031,9 +14031,9 @@
             "id": 22,
             "name": "Vocab Booster: I've Got Places To Be!",
             "sequence": "22",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14166,9 +14166,9 @@
             "id": 1,
             "name": "Get Started",
             "sequence": "1",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14386,9 +14386,9 @@
             "id": 2,
             "name": "How to Sound Polite",
             "sequence": "2",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14486,9 +14486,9 @@
             "id": 3,
             "name": "Survival Kit",
             "sequence": "3",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14586,9 +14586,9 @@
             "id": 4,
             "name": "Forming Senteces",
             "sequence": "4",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14686,9 +14686,9 @@
             "id": 5,
             "name": "Vocab Booster : Easy as 1,2,3",
             "sequence": "5",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14786,9 +14786,9 @@
             "id": 6,
             "name": "Small Talk",
             "sequence": "6",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14886,9 +14886,9 @@
             "id": 7,
             "name": "How to say 'Not...'",
             "sequence": "7",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -14986,9 +14986,9 @@
             "id": 8,
             "name": "Vocab Booster: Who Are You?",
             "sequence": "8",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15086,9 +15086,9 @@
             "id": 9,
             "name": "Each To Their Own",
             "sequence": "9",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15186,9 +15186,9 @@
             "id": 10,
             "name": "The 2 Types of Adjectives (Part 1)",
             "sequence": "10",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15286,9 +15286,9 @@
             "id": 11,
             "name": "The 2 Types of Adjevtives (Part 2)",
             "sequence": "11",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15386,9 +15386,9 @@
             "id": 12,
             "name": "Vocab Booster: Day In, Day Out",
             "sequence": "12",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15486,9 +15486,9 @@
             "id": 13,
             "name": "Which Particle to Use for \"I Like...\"",
             "sequence": "13",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15586,9 +15586,9 @@
             "id": 14,
             "name": "Which Particle to Use for \"So You Like...?\"",
             "sequence": "14",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15686,9 +15686,9 @@
             "id": 15,
             "name": "Food For Thought",
             "sequence": "15",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15786,9 +15786,9 @@
             "id": 16,
             "name": "Which Particle to Use for \"There is...\"",
             "sequence": "16",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15886,9 +15886,9 @@
             "id": 17,
             "name": "Vocab Booster: Food Is Life",
             "sequence": "17",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -15986,9 +15986,9 @@
             "id": 18,
             "name": "We Are Family",
             "sequence": "18",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -16086,9 +16086,9 @@
             "id": 19,
             "name": "imasu or arimasu: That is the Question!",
             "sequence": "19",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -16186,9 +16186,9 @@
             "id": 20,
             "name": "Vocab Booster: Personalities",
             "sequence": "20",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -16286,9 +16286,9 @@
             "id": 21,
             "name": "Sites To See!",
             "sequence": "21",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
@@ -16386,9 +16386,9 @@
             "id": 22,
             "name": "Vocab Booster: I've Got Places To Be!",
             "sequence": "22",
-            "all_words":20,
-            "reviewed_words":0,
-            "mastered_words":0,
+            "all_words":15,
+            "reviewed_words":3,
+            "mastered_words":3,
             "words": [
                {
                   "id": 1,
