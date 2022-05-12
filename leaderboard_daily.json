@@ -1,0 +1,402 @@
+[
+   {
+      "id": 1,
+      "user_id": 1,
+      "name": "Kadek Ari 1",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://images.unsplash.com/photo-1612896488082-7271dc0ed30c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwZmFjZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "exp_point": 11000
+   },
+   {
+      "id": 2,
+      "user_id": 1,
+      "name": "Kadek Ari 2",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://data.whicdn.com/images/347209450/original.jpg",
+      "exp_point": 1000
+   },
+   {
+      "id": 3,
+      "user_id": 1,
+      "name": "Kadek Ari 3",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://qph.fs.quoracdn.net/main-qimg-a16411ebb33f06631030742065cf0f7c-c",
+      "exp_point": 10003
+   },
+   {
+      "id": 4,
+      "user_id": 1,
+      "name": "Kadek Ari 4",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://static.blitz.bg/documents/thumbnails/730/202012/1609418132-640-img-7305.jpg",
+      "exp_point": 10040
+   },
+   {
+      "id": 5,
+      "user_id": 1,
+      "name": "Kadek Ari 5",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fhbYinqh_8fnSdjdwGsEBxlXFaZgGjDrfQ&usqp=CAU",
+      "exp_point": 15000
+   },
+   {
+      "id": 6,
+      "user_id": 1,
+      "name": "Kadek Ari 6",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxh8omPz-i2qcKSA1-e9dEB5cW3dbqCuwOaA&usqp=CAU",
+      "exp_point": 61000
+   },
+   {
+      "id": 7,
+      "user_id": 1,
+      "name": "Kadek Ari 7",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 10070
+   },
+   {
+      "id": 8,
+      "user_id": 1,
+      "name": "Kadek Ari 8",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 10800
+   },
+   {
+      "id": 9,
+      "user_id": 1,
+      "name": "Kadek Ari 9",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 10009
+   },
+   {
+      "id": 10,
+      "user_id": 1,
+      "name": "Kadek Ari 10",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 101000
+   },
+   {
+      "id": 11,
+      "user_id": 1,
+      "name": "Kadek Ari 11",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100011
+   },
+   {
+      "id": 12,
+      "user_id": 1,
+      "name": "Kadek Ari 12",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100012
+   },
+   {
+      "id": 13,
+      "user_id": 1,
+      "name": "Kadek Ari 13",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100013
+   },
+   {
+      "id": 14,
+      "user_id": 1,
+      "name": "Kadek Ari 14",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100014
+   },
+   {
+      "id": 15,
+      "user_id": 1,
+      "name": "Kadek Ari 15",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100015
+   },
+   {
+      "id": 16,
+      "user_id": 1,
+      "name": "Kadek Ari 16",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100016
+   },
+   {
+      "id": 17,
+      "user_id": 1,
+      "name": "Kadek Ari 17",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100017
+   },
+   {
+      "id": 18,
+      "user_id": 1,
+      "name": "Kadek Ari 18",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100018
+   },
+   {
+      "id": 19,
+      "user_id": 1,
+      "name": "Kadek Ari 19",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100019
+   },
+   {
+      "id": 20,
+      "user_id": 1,
+      "name": "Kadek Ari 20",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100020
+   },
+   {
+      "id": 21,
+      "user_id": 1,
+      "name": "Kadek Ari 21",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100021
+   },
+   {
+      "id": 22,
+      "user_id": 1,
+      "name": "Kadek Ari 22",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100022
+   },
+   {
+      "id": 23,
+      "user_id": 1,
+      "name": "Kadek Ari 23",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100023
+   },
+   {
+      "id": 24,
+      "user_id": 1,
+      "name": "Kadek Ari 24",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100024
+   },
+   {
+      "id": 25,
+      "user_id": 1,
+      "name": "Kadek Ari 25",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100025
+   },
+   {
+      "id": 26,
+      "user_id": 1,
+      "name": "Kadek Ari 26",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100026
+   },
+   {
+      "id": 27,
+      "user_id": 1,
+      "name": "Kadek Ari 27",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100027
+   },
+   {
+      "id": 28,
+      "user_id": 1,
+      "name": "Kadek Ari 28",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100028
+   },
+   {
+      "id": 29,
+      "user_id": 1,
+      "name": "Kadek Ari 29",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100029
+   },
+   {
+      "id": 30,
+      "user_id": 1,
+      "name": "Kadek Ari 30",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100030
+   },
+   {
+      "id": 31,
+      "user_id": 1,
+      "name": "Kadek Ari 31",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100031
+   },
+   {
+      "id": 32,
+      "user_id": 1,
+      "name": "Kadek Ari 32",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100032
+   },
+   {
+      "id": 33,
+      "user_id": 1,
+      "name": "Kadek Ari 33",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100033
+   },
+   {
+      "id": 34,
+      "user_id": 1,
+      "name": "Kadek Ari 34",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100034
+   },
+   {
+      "id": 35,
+      "user_id": 1,
+      "name": "Kadek Ari 35",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100035
+   },
+   {
+      "id": 36,
+      "user_id": 1,
+      "name": "Kadek Ari 36",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100036
+   },
+   {
+      "id": 37,
+      "user_id": 1,
+      "name": "Kadek Ari 37",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100037
+   },
+   {
+      "id": 38,
+      "user_id": 1,
+      "name": "Kadek Ari 38",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100038
+   },
+   {
+      "id": 39,
+      "user_id": 1,
+      "name": "Kadek Ari 39",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 391000
+   },
+   {
+      "id": 40,
+      "user_id": 1,
+      "name": "Kadek Ari 40",
+      "age": 22,
+      "gender": "Laki-Laki",
+      "languages_id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "exp_point": 100040
+   }
+]
