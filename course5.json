@@ -1,0 +1,229 @@
+[
+   {
+      "id": "5",
+      "name": "German 1",
+      "description": "Get started in German to learn the basics and introduce yourself. You’ll discover how to ask for recommendations about what to see and where to eat the best doner kebab. And how to order it, of course.",
+      "img": "https://static.memrise.com/img/400sqf/from/uploads/immersion/shutterstock_686826304.jpg.jpg",
+      "native": [
+         {
+            "id": 1,
+            "name": "English",
+            "code": "gg",
+            "country_id": 1,
+            "img": "https://static.memrise.com/uploads/category_photos/DemoFlags-09_copy.png"
+         }
+      ],
+      "foreign": [
+         {
+            "id": 1,
+            "name": "Japanese",
+            "code": "gg",
+            "country_id": 1,
+            "img": "https://static.memrise.com/uploads/category_photos/DemoFlags-09_copy.png"
+         }
+      ],
+      
+      "levels": [
+         {
+            "id": 1,
+            "name": "Get Started",
+            "sequence": "1",
+            "total_words": 15,
+            "reviewed_words": 15,
+            "mastered_words": 15,
+            "total_words_learn": 15,
+            "progress_level": 1
+         },
+         {
+            "id": 2,
+            "name": "How to Sound Polite",
+            "sequence": "2",
+            "total_words": 20,
+            "reviewed_words": 0,
+            "mastered_words": 5,
+            "total_words_learn": 7,
+            "progress_level": 0.25
+         },
+         {
+            "id": 3,
+            "name": "Survival Kit",
+            "sequence": "3",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 4,
+            "name": "Forming Senteces",
+            "sequence": "4",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 5,
+            "name": "Vocab Booster : Easy as 1,2,3",
+            "sequence": "5",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 6,
+            "name": "Small Talk",
+            "sequence": "6",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 7,
+            "name": "How to say 'Not...'",
+            "sequence": "7",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 8,
+            "name": "Vocab Booster: Who Are You?",
+            "sequence": "8",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 9,
+            "name": "Each To Their Own",
+            "sequence": "9",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 10,
+            "name": "The 2 Types of Adjectives (Part 1)",
+            "sequence": "10",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 11,
+            "name": "The 2 Types of Adjevtives (Part 2)",
+            "sequence": "11",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 12,
+            "name": "Vocab Booster: Day In, Day Out",
+            "sequence": "12",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 13,
+            "name": "Which Particle to Use for \"I Like...\"",
+            "sequence": "13",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 14,
+            "name": "Which Particle to Use for \"So You Like...?\"",
+            "sequence": "14",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 15,
+            "name": "Food For Thought",
+            "sequence": "15",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 16,
+            "name": "Which Particle to Use for \"There is...\"",
+            "sequence": "16",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 17,
+            "name": "Vocab Booster: Food Is Life",
+            "sequence": "17",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 18,
+            "name": "We Are Family",
+            "sequence": "18",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 19,
+            "name": "imasu or arimasu: That is the Question!",
+            "sequence": "19",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         },
+         {
+            "id": 20,
+            "name": "Vocab Booster: Personalities",
+            "sequence": "20",
+            "total_words": 25,
+            "reviewed_words": 0,
+            "mastered_words": 0,
+            "total_words_learn": 0,
+            "progress_level": 0
+         }
+      ]
+   }
+]
