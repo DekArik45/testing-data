@@ -5,6 +5,14 @@
       "description": "koper",
       "translation": "koper",
       "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [
          {
@@ -34,6 +42,14 @@
       "description": "tas",
       "translation": "tas",
       "life": 4,
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [
          {
             "id": 1,
@@ -66,6 +82,14 @@
       "life": 4,
       "difficult_words": [],
       "ignored_words": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "mastered_words": [
          {
             "id": 1,
@@ -94,7 +118,14 @@
       "description": "hotel",
       "translation": "hotel",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
@@ -119,7 +150,14 @@
       "description": "hostel",
       "translation": "hostel",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
@@ -144,7 +182,14 @@
       "description": "pancuran air mandi",
       "translation": "pancuran air mandi",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
@@ -169,7 +214,14 @@
       "description": "kamar mandi",
       "translation": "kamar mandi",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
@@ -194,7 +246,14 @@
       "description": "kamar single",
       "translation": "kamar single",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
@@ -219,7 +278,14 @@
       "description": "kamar double",
       "translation": "kamar double",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
@@ -244,7 +310,14 @@
       "description": "kunci",
       "translation": "kunci",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 15,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
@@ -274,7 +347,7 @@
             "id": 1,
             "word_id": 11,
             "account_id": 1,
-            "progress": 1
+            "progress": 4
          }
       ],
       "difficult_words": [],
@@ -306,7 +379,7 @@
             "id": 1,
             "word_id": 12,
             "account_id": 1,
-            "progress": 1
+            "progress": 4
          }
       ],
       "difficult_words": [],
@@ -338,7 +411,7 @@
             "id": 1,
             "word_id": 13,
             "account_id": 1,
-            "progress": 1
+            "progress": 4
          }
       ],
       "difficult_words": [],
@@ -370,7 +443,7 @@
             "id": 1,
             "word_id": 14,
             "account_id": 1,
-            "progress": 1
+            "progress": 4
          }
       ],
       "difficult_words": [],
@@ -402,7 +475,7 @@
             "id": 1,
             "word_id": 15,
             "account_id": 1,
-            "progress": 1
+            "progress": 4
          }
       ],
       "difficult_words": [],
