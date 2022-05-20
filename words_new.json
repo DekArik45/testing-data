@@ -48,7 +48,7 @@
             "id": 1,
             "word_id": 2,
             "account_id": 1,
-            "progress": 0
+            "progress": 2
          }
       ],
       "difficult_words": [
@@ -86,7 +86,7 @@
             "id": 1,
             "word_id": 3,
             "account_id": 1,
-            "progress": 4
+            "progress": 3
          }
       ],
       "difficult_words": [],
@@ -119,7 +119,14 @@
       "description": "hotel",
       "translation": "hotel",
       "life": 4,
-      "words_progress": [],
+      "words_progress": [
+         {
+            "id": 1,
+            "word_id": 4,
+            "account_id": 1,
+            "progress": 4
+         }
+      ],
       "difficult_words": [],
       "ignored_words": [],
       "mastered_words": [],
