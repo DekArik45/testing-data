@@ -5,7 +5,7 @@
       "name": "kadek ari",
       "age": 22,
       "gender": "Male",
-      "image": "https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg",
+      "img": "https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg",
       "accountSetting": [
          {
             "id": 1,
