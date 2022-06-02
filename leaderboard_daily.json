@@ -6,7 +6,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://images.unsplash.com/photo-1612896488082-7271dc0ed30c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwZmFjZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "img": "https://images.unsplash.com/photo-1612896488082-7271dc0ed30c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwZmFjZXxlbnwwfHwwfHw%3D&w=1000&q=80",
       "exp_point": 11000
    },
    {
@@ -16,7 +16,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://data.whicdn.com/images/347209450/original.jpg",
+      "img": "https://data.whicdn.com/images/347209450/original.jpg",
       "exp_point": 1000
    },
    {
@@ -26,7 +26,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://qph.fs.quoracdn.net/main-qimg-a16411ebb33f06631030742065cf0f7c-c",
+      "img": "https://qph.fs.quoracdn.net/main-qimg-a16411ebb33f06631030742065cf0f7c-c",
       "exp_point": 10003
    },
    {
@@ -36,7 +36,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://static.blitz.bg/documents/thumbnails/730/202012/1609418132-640-img-7305.jpg",
+      "img": "https://static.blitz.bg/documents/thumbnails/730/202012/1609418132-640-img-7305.jpg",
       "exp_point": 10040
    },
    {
@@ -46,7 +46,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fhbYinqh_8fnSdjdwGsEBxlXFaZgGjDrfQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fhbYinqh_8fnSdjdwGsEBxlXFaZgGjDrfQ&usqp=CAU",
       "exp_point": 15000
    },
    {
@@ -56,7 +56,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxh8omPz-i2qcKSA1-e9dEB5cW3dbqCuwOaA&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxh8omPz-i2qcKSA1-e9dEB5cW3dbqCuwOaA&usqp=CAU",
       "exp_point": 61000
    },
    {
@@ -66,7 +66,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 10070
    },
    {
@@ -76,7 +76,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 10800
    },
    {
@@ -86,7 +86,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 10009
    },
    {
@@ -96,7 +96,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 101000
    },
    {
@@ -106,7 +106,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100011
    },
    {
@@ -116,7 +116,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100012
    },
    {
@@ -126,7 +126,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100013
    },
    {
@@ -136,7 +136,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100014
    },
    {
@@ -146,7 +146,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100015
    },
    {
@@ -156,7 +156,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100016
    },
    {
@@ -166,7 +166,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100017
    },
    {
@@ -176,7 +176,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100018
    },
    {
@@ -186,7 +186,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100019
    },
    {
@@ -196,7 +196,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100020
    },
    {
@@ -206,7 +206,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100021
    },
    {
@@ -216,7 +216,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100022
    },
    {
@@ -226,7 +226,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100023
    },
    {
@@ -236,7 +236,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100024
    },
    {
@@ -246,7 +246,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100025
    },
    {
@@ -256,7 +256,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100026
    },
    {
@@ -266,7 +266,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100027
    },
    {
@@ -276,7 +276,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100028
    },
    {
@@ -286,7 +286,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100029
    },
    {
@@ -296,7 +296,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100030
    },
    {
@@ -306,7 +306,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100031
    },
    {
@@ -316,7 +316,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100032
    },
    {
@@ -326,7 +326,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100033
    },
    {
@@ -336,7 +336,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100034
    },
    {
@@ -346,7 +346,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100035
    },
    {
@@ -356,7 +356,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100036
    },
    {
@@ -366,7 +366,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100037
    },
    {
@@ -376,7 +376,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100038
    },
    {
@@ -386,7 +386,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 391000
    },
    {
@@ -396,7 +396,7 @@
       "age": 22,
       "gender": "Laki-Laki",
       "languages_id": 1,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuKNz1xA3dVKfs2gaRuemn0s44VxhcMq6VQ&usqp=CAU",
       "exp_point": 100040
    }
 ]
