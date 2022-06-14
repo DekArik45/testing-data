@@ -32,9 +32,9 @@
                   "day": "Thursday"
                }
             ],
-            "audio": true,
+            "is_audio": true,
             "auto_play_audio": true,
-            "video": true,
+            "is_video": true,
             "auto_play_video": true,
             "vibration": true,
             "theme": "System",
