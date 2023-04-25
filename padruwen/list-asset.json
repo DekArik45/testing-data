@@ -4,40 +4,14 @@
     "data": [
         {
           "id": "1",
-          "name": "Tanah Badung",
+          "name": "Tanah Milik Badung Provinsi Bali",
           "image": "https://t4.ftcdn.net/jpg/02/81/89/73/360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg",
           "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "price": 10000,
-          "asset_images" : [
-            "https://t4.ftcdn.net/jpg/02/81/89/73/360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg",
-            "https://t4.ftcdn.net/jpg/02/81/89/73/360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg",
-            "https://t4.ftcdn.net/jpg/02/81/89/73/360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg"
-          ],
-          "list_prices" : [
-            {
-              "pemanfaatan":"Pariwisata",
-              "price" : 50000
-            },
-            {
-              "pemanfaatan": "Tempat Belanja",
-              "price" : 35000
-            },
-            {
-              "pemanfaatan": "Bangunan",
-              "price":10000
-            }
-          ],
-          "latlng":"-8.654011, 115.210677",
-          "kabupaten":"Denpasar",
-          "kecamatan":"Denpasar Timur",
-          "desa":"Kesiman",
-          "alamat":"Jalan Waribang Gang Sekar No. 7A",
-          "pemilik":"Dinas Badung",
-          "luas":"50m2",
-          "lebar":"10m",
-          "panjang":"5m",
+          "price": 100000,
+          "price_type":"m\u00B2",
+          "jenis_pemanfaatan":"Pariwisata",
+          "luas":"50m\u00B2",
           "status":"Available",
-          "penyewa": null
         },
         {
           "id": "1",
