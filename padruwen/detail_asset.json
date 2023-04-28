@@ -28,30 +28,37 @@
             {
               "id":1,
               "pemanfaatan":"Pariwisata",
+              "price":10000,
             },
             {
               "id":1,
               "pemanfaatan":"Perumahan",
+              "price":10000,
             },
             {
               "id":1,
               "pemanfaatan":"Pembangunan",
+                "price":10000,
             },
             {
               "id":1,
               "pemanfaatan":"Kios",
+                "price":10000,
             },
             {
               "id":1,
               "pemanfaatan":"Mall",
+                "price":10000,
             },
             {
               "id":1,
               "pemanfaatan":"Gedung",
+                "price":10000,
             },
             {
               "id":1,
               "pemanfaatan":"Tanam",
+                "price":10000,
             },
            ]
           "asset_images":[
