@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "message": "Berhasil mengambil data",
+    "data": [
+        {
+          "id": "1",
+          "pemanfaatan": "Pariwisata",
+        },{
+          "id": "1",
+          "pemanfaatan": "Gedung",
+        },{
+          "id": "1",
+          "pemanfaatan": "Baliho",
+        },{
+          "id": "1",
+          "pemanfaatan": "Toko",
+        },{
+          "id": "1",
+          "pemanfaatan": "Kios",
+        },{
+          "id": "1",
+          "pemanfaatan": "Klinik",
+        },{
+          "id": "1",
+          "pemanfaatan": "Pertanian",
+        },{
+          "id": "1",
+          "pemanfaatan": "Perkebunan",
+        },{
+          "id": "1",
+          "pemanfaatan": "Kos-kosan",
+        },{
+          "id": "1",
+          "pemanfaatan": "Mall",
+        },{
+          "id": "1",
+          "pemanfaatan": "Dagang",
+        },
+      ]
+}
