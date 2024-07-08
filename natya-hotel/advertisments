@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "Berhasil get data advertisments",
+  "data": [
+    {
+      "id":1,
+      "title":"Exploring Temple",
+      "description:"Get Special Offer Up to 35%",
+      "image":"https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+    },
+    {
+      "id":2,
+      "title":"Exploring Temple",
+      "description:"Get Special Offer Up to 35%",
+      "image":"https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+    },
+    {
+      "id":3,
+      "title":"Exploring Temple",
+      "description:"Get Special Offer Up to 35%",
+      "image":"https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+    }
+  ],
+}
